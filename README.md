@@ -153,3 +153,7 @@ class Probability_and_Statistics_Project_Assignment
 * **[P90](https://en.wikipedia.org/wiki/Percentile)**, *It means that 90% of the calculated estimates will be equal or exceed P90 estimate.*
 * **[Interquartile](https://en.wikipedia.org/wiki/Interquartile_range)**, *In descriptive statistics, the interquartile range is a measure of statistical dispersion, which is the spread of the data. The IQR may also be called the midspread, middle 50%, fourth spread, or H‑spread. It is defined as the difference between the 75th and 25th percentiles of the data.*
 * **[Boundaries](https://en.wikipedia.org/wiki/Boundary_value_problem)**, *In statistics, class boundaries are endpoints used to separate the data into classes or groups. The boundary with the lower value is called the lower boundary while the one with a higher value is called the upper boundary*.
+
+### Some references explain probability and statistics
+* [Probability and Statistics - Dr. Mervat Mikhail](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV)
+* [Probability and Statistics - Dr. Ahmed Hagag ](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-)
