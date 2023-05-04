@@ -1,4 +1,4 @@
-# Probability and Statistics Assienment Project - Prof. Samir Elmougy 
+# Probability & Statistics Assienment Project - Prof. Samir Elmougy
 
 
 ### What is required in the project?
