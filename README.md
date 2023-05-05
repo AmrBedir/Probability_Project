@@ -3,7 +3,7 @@
 
 ### What is required in the project?
 
-Write a C# program for the following project (Only two students can work together as a team).
+Write a C# program for the following project:
 * Input: 
   * n: number of items.
   * Ai: the items values (Not sorted) from i=1 to n 
