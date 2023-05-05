@@ -18,6 +18,8 @@ Write a C# program for the following project (Only two students can work togethe
   * The boundaries of the outlier region.
   * Determine whether an input value is an outlier or not.
 
+[*Project Assignment Details - PDF*](https://github.com/AmrBedir/Probability_Project/blob/main/Project_Assignment_1.pdf)
+
 ### Project code in C#
 
 ```c#
@@ -143,7 +145,7 @@ class Probability_and_Statistics_Project_Assignment
     }
 }
 ```
-[Code File](https://github.com/AmrBedir/Probability_Project/blob/main/Probability_and_Statistics_Project_Assignment/Probability_and_Statistics_Project_Assignment/Program.cs)
+[*Code File*](https://github.com/AmrBedir/Probability_Project/blob/main/Probability_and_Statistics_Project_Assignment/Probability_and_Statistics_Project_Assignment/Program.cs)
 
 ### Important terms to know
 * **[Median](https://en.wikipedia.org/wiki/Median)**, *The statistical median is the middle number in a sequence of numbers. To find the median, organize each number in order by size; the number in the middle is the median.*
