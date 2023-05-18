@@ -8,7 +8,8 @@ Write a C# program for the following project:
   * n: number of items.
   * Ai: the items values (Not sorted) from i=1 to n 
   
-* Output: The median of the values Ai.
+* Output: 
+  * The median of the values Ai.
   * The mode of the values Ai.
   * The range of the values Ai.
   * The first Quartile of the values Ai.
